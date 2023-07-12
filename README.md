@@ -6,3 +6,5 @@
 ## This project is created using React JS, Material UI 5 and RapidAPI
 
 🖥️ Deployed website: https://youtube-clone-sumit.netlify.app/
+
+This is a fully responsive React JS application consisting of video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!
